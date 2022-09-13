@@ -4,7 +4,7 @@
                         INSTRUCTIONS
            Initially, all cells are filled with 0.
                Enter values from your grid.
-If you have an empty cell on a certain cell, leave '0' in the empty cell.
+    If you have an empty cell on a certain cell, leave '0' in the empty cell.
 
  
 Update 2.0 - 09/13/2022
