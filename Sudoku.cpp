@@ -231,12 +231,8 @@ choice:
 	}
 	else if (choice == "N" || choice == "n")
 	{
-		int nCh; // Choice for 'n' - option
-		/*cout << "\n\t\tLet's try again enter your grid Sudoku";
-		delay();
-		system("CLS");
-		addGridSudoku();
-	*/
+		int nCh;
+
 		nCh:
 		cout << "\n\t\tYou have a 2 options:";
 		cout << "\n\t\t1. Reset and re-enter values";
