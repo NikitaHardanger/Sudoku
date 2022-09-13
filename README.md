@@ -6,7 +6,7 @@
                Enter values from your grid.
 If you have an empty cell on a certain cell, leave '0' in the empty cell.
 
-
+ 
 Update 2.0 - 09/13/2022
 
 1.  Project decomposition completed. Splitting the original code into multiple files: Sudoku.h, Sudoku.cpp, Functions.h,         Functions.cpp, main.cpp
